@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #000000;
+
+}
+
+.container {
+  max-width: 1928px;
+  margin: 0 30px;
+  padding: 0 30px;
+  padding-bottom: 190px;
+}
+
+
+.page-header {
+  max-width: 1408px;
+  text-align: right;
+}
+
+
+.heading{
+  font-size: 88px;
+  font-family: "consolas", "Times", "Times New Roman", serif;
+  margin: 0 0 16px;
+  font-weight: 400;
+  line-height: 96px;
+
+}
+
+.start {
+  font-size: 24px;
+}
